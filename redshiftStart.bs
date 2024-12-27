@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# add a delay so the program runs
+sleep 3
+
+# set redshift to be off
+redshift -x
+
+# turn redshift on
+redshift -O 2000k
