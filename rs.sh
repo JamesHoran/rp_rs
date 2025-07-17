@@ -2,9 +2,6 @@
 
 # program: redshiftStart.bs
 
-# add a delay so the program runs
-sleep 3
-
 # set redshift to be off
 redshift -x
 
