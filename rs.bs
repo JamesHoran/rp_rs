@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# program: redshiftStart.bs
+
 # add a delay so the program runs
 sleep 3
 
